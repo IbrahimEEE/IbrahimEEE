@@ -9,7 +9,7 @@
 ### 💼 Experience
 - **VeNIT Lab**: Developed a multispectral object detection model using advanced machine learning techniques to enhance detection accuracy in complex environments.
 - **ASELSAN**: Developed image processing algorithms in C++ and Python for military ground vehicles. Delivered a complete and usable algorithm by the end of the internship.
-- **ALDEBARAN UAV Team & Marmara Technology Team**: Served as an Avionics Team Leader and Image Processing Software Developer. Managed the entire avionics integration and autonomous flight of UAVs, focusing on image processing and team leadership. Developed image processing algorithms using Python, OpenCV, and hardware like Raspberry Pi and NVIDIA Jetson. Actively participated in the Teknofest Fixed Wing UAV Competition.
+- **ALDEBARAN UAV Team**: Served as an Avionics Team Leader and Image Processing Software Developer. Managed the entire avionics integration and autonomous flight of UAVs, focusing on image processing and team leadership. Developed image processing algorithms using Python, OpenCV, and hardware like Raspberry Pi and NVIDIA Jetson. Actively participated in the Teknofest Fixed Wing UAV Competition.
 - **TÜBİTAK STAR Internship**: Software Engineer Intern focused on Machine Learning. Contributed to the Forestmap project aimed at detecting trees from satellite images using deep learning. Developed datasets and models for tree detection.
 - **Marmara Aeronautic & Space Society**: Founder Member and Management Secretary. Organized student events and handled official communication.
 
